@@ -1,10 +1,13 @@
 **Code of Conduct**
+
 **Our Pledge**
+
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 This project is built on a mission of empowerment and opportunity, and we expect our community interactions to reflect those values.
 
 **Our Standards**
+
 Examples of behavior that contributes to a positive environment include:
 
 Using welcoming and inclusive language.
@@ -30,9 +33,11 @@ Publishing others' private information, such as a physical or electronic address
 Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 **Enforcement**
+
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [INSERT PROJECT EMAIL ADDRESS HERE]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 Project maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
 
 **Attribution**
+
 This Code of Conduct is adapted from the , version 2.1, and aligned with our mission to empower individuals through technology.
